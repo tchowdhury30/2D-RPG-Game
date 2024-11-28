@@ -1,9 +1,15 @@
 # 2D-RPG-Game
 
 ### Description
-We have attempted to program a 2D rpg game losely based on children's fairytales. Join Hansel and Gretel as they try to navigate their way through a forest. Make sure to watch out for any monsters hiding in the grass! And have fun! It took a lot of time :/
+This 2D RPG game is loosely based on children's fairytales. Join **Hansel** and **Gretel** as they navigate their way through a forest, avoiding monsters hiding in the grass. Explore and enjoy the adventure!
 
 ### How To Launch
-In order to launch it please type processing Woo.pde into the terminal of a computer that has atleast a 1600 x 960 display and press Run.
-Make sure to also have the official sound library installed or comment out the lines Woo.pde that concern sound.
-Please be patient when running it as it may take a few seconds to load.
+1. **Using Processing IDE**:
+   - Make sure you have **Processing 3.5** or later installed.
+   - **Install the Sound Library** in Processing (if you haven't already):
+     - Go to **Sketch** → **Import Library** → **Add Library**, and then search for **Sound** and install it.
+   - Open **`Woo.pde`** in **Processing** by navigating to the file and opening it directly.
+   - Click **Run** in the Processing IDE.
+   - Ensure your device has at least a 1600x960 display for proper rendering.
+
+> **Note**: The game might take a few seconds to load, so please be patient.
