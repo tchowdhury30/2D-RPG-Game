@@ -37,3 +37,7 @@ This project was my first step into full-scale game development, and it helped m
    - Ensure your device has at least a **1600x960 display** for proper rendering.
 
 > **Note**: The game might take a few seconds to load, so please be patient.
+
+### Collaboration
+This project was developed as a 2 week long group project for my AP Computer Science class in 11th grade. It was a collaborative effort with 2 classmates, where we worked together to design and implement the game mechanics, character interactions, and overall structure of the game. Each team member contributed to different aspects of the development process, and we used Processing to bring our vision to life.
+
